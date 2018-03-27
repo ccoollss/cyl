@@ -1,0 +1,195 @@
+{
+    "Errors": {
+        "error": "Error",
+        "Address": "Address is not correct"
+    },
+    "Date": {
+        "yesterday": "Yestarday",
+        "hour0": "hour",
+        "hour1": "hours",
+        "hour2": "hours",
+        "ago": "back",
+        "minute0": "minute",
+        "minute1": "minutes",
+        "minute2": "minutes",
+        "second0": "second",
+        "second1": "seconds",
+        "second2": "seconds",
+        "now": "Right now"
+    },
+    "UI": {
+		"tellAboutYou": "Tell us about you",
+        "editPoint": "Edit Point",
+        "save": "Save",
+        "category": "Category*",
+        "subcategory": "Subcategory*",
+        "registration": "Registration",
+        "willbewaiting": "I will wait",
+        "confirmEmail": "Confirm email",
+        "gotNothing": "I got nothing",
+        "forgotPassword": "Password reminder",
+        "again": "Again"
+    },
+    "messages": {
+        "thanks": "Thank you! We will soon review your application",
+        "emailSent": "A link has been sent to your email to confirm the new mailing address",
+        "linkSent": "Your password has been sent to your email."
+    },
+    "invite": {
+        "agreeTerms": "With the terms of the User Agreement, I have read and agree and have submitted an application for consent to the processing of personal data",
+        "agreeTermsSub": "the terms of the User Agreement",
+        "appTerms": "I have read and agree with the terms of the Application for Participation Agreement",
+        "appTermsSub": "the terms of the Application"
+    },
+    "register": {
+        "terms": "By clicking the \"Register\" button you agree with the terms and conditions of use of the service",
+        "termsSub": "terms and conditions of use"
+    },
+    "profile": {
+        "points": "Created :count points"
+    },
+    "editProfile": {
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "changeEmail": "Change email",
+        "changePassword": "Change password",
+        "addSocial": "Add social network",
+        "addVK": "add Vkontakte",
+        "addFB": "add Facebook",
+        "photo": "Change photo",
+        "push": "Push notifications",
+        "exit": "Log out",
+        "about": "About me"
+    },
+    "about": {
+        "app": "About app",
+        "legal": "Legal information"
+    },
+    "feedDetails": {
+        "comments": "Comments: :count"
+    },
+    "profileCell": {
+        "noInformation": "No information"
+    },
+    "welcome": {
+        "info1": "We are glad to welcome you in Meallions Food Map - international community of food entrepreneurs.",
+        "info2": {
+            "title": "",
+            "p1": "",
+            "p2": "",
+            "p3": "",
+            "p4": ""
+        },
+        "register": "Register",
+        "enter": "Log in",
+        "enterTitle": "Log in",
+        "pass": "Password",
+        "email": "Your email",
+        "remember": "Remind"
+    },
+    "infocontroller": {
+        "title": "Change Email",
+        "label1": "Your password has been sent to your email.",
+        "button": "Change Email"
+    },
+    "recoverycontroller": {
+        "title": "Remind password",
+        "label1": "Enter your email to receive a link to reset your password",
+        "button": "Send"
+    },
+    "invitecontroller": {
+        "title": "Registration",
+        "label1": "We are glad to welcome you in Meallions Food Map - international community of food entrepreneurs.",
+        "label2": "We have an invitations system. Leave a request to register",
+        "label3": "Follow the link from the email if you already have an invitation",
+        "label4": "Your email",
+        "button": "Submit your application"
+    },
+    "registercontroller": {
+        "title": "Registration",
+        "button": "Registration",
+        "label1": "Your email",
+        "label2": "Name",
+        "label3": "Subname",
+        "label4": "Your password",
+        "label5": "Repeat password",
+        "genderMale": "Male",
+        "genderFemale": "Female",
+        "social": "Social",
+        "vk": "Add Vkontakte",
+        "fb": "Add Facebook"
+    },
+    "profilecontroller": {
+        "bar": "Profile",
+        "title1": "Profile",
+        "title2": "Favorites"
+    },
+    "detailcontroller": {
+        "bar": "More",
+        "title": "Information",
+        "label1": "Meallions Food Map - international community of food entrepreneurs."
+    },
+    "notificationscontroller": {
+        "bar": "Notifications",
+        "title": "Notifications"
+    },
+    "feedcontroller": {
+        "bar": "Feed",
+        "title": "Points"
+    },
+    "addcontroller": {
+        "bar": "Add",
+        "title": "Add point",
+        "type": "Type",
+        "idea": "Idea",
+        "event": "Event",
+        "logo": "Logo",
+        "pointName": "Title*",
+        "description": "Description*",
+        "photos": "Photos",
+        "required": "* — required fields",
+        "location": "Pick a location",
+        "more": "More",
+        "category": "Category*",
+        "subcategory": "Subcategory*",
+        "social": "Social",
+        "maincustomers": "Who will be main customers?*",
+        "progress": "Progress of development?*",
+        "link": "http://link for a site",
+        "time": "Event time*",
+        "startTime": "Start event",
+        "endTime": "End",
+        "address": "Address*",
+        "country": "Country*",
+        "city": "City*",
+        "pointSent": "Point submitted for review by the moderator. You will receive a notification when the point is published",
+        "nextButton": "Next",
+        "additional": "Additional",
+        "button": "Next"
+    },
+    "settingscontroller": {
+        "title": "Settings"
+    },
+    "changeemail": {
+        "title": "Change Email",
+        "label1": "New Email",
+        "label2": "Password"
+    },
+    "changepass": {
+        "title": "Change password",
+        "label1": "Password",
+        "label2": "New password",
+        "label3": "Repeat new password"
+    },
+    "projectcontroller": {
+        "title": "Project",
+        "show": "Show more"
+    },
+    "filtercontroller": {
+        "title": "Sorting",
+        "reset": "Reset all filters",
+        "date": "By publication date",
+        "category": "Categories"
+    }
+}

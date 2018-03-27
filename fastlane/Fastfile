@@ -1,0 +1,27 @@
+fastlane_version "1.106.2"
+
+default_platform :ios
+
+platform :ios do
+  before_all do
+    cocoapods
+    increment_build_number(build_number: ENV["BUILD_NUMBER"])
+  end
+
+  desc "Build CYL App"
+  desc "Submit a new Stage Build to Apple TestFlight"
+  desc "This will also make sure the profile is up to date"
+  lane :stage do
+    update_info_plist(xcodeproj: "Mabius.xcodeproj", plist_path: "Mabius/Info.plist", display_name: "CYL Stage")
+    update_app_identifier(app_identifier: "agency.vice3.cyl.stage", plist_path: "Mabius/Info.plist")
+    match(type: "appstore", app_identifier: "agency.vice3.cyl.stage")
+    gym(scheme: "Mabius") # Build your app - more options available
+    pilot(app_identifier: "agency.vice3.cyl.stage", skip_waiting_for_build_processing: true, team_id: "1283862")
+  end
+
+  after_all do |lane|
+  end
+
+  error do |lane, exception|
+  end
+end

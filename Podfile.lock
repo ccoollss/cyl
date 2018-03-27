@@ -1,0 +1,50 @@
+PODS:
+  - Crashlytics (3.10.0):
+    - Fabric (~> 1.7.3)
+  - Fabric (1.7.3)
+  - KMPlaceholderTextView (1.3.0)
+  - LFSideViewController (1.3.1)
+  - Localize (1.5.2)
+  - Nuke (5.2)
+  - ObjectMapper (2.2.9)
+  - Simplicity (2.0.1)
+  - SwiftyUserDefaults (3.0.1)
+  - TagListView (1.3.0)
+
+DEPENDENCIES:
+  - Crashlytics
+  - Fabric
+  - KMPlaceholderTextView (~> 1.3.0)
+  - LFSideViewController (from `https://github.com/4ndrey/LFSideViewController.git`, commit `e583a87`)
+  - Localize (~> 1.5)
+  - Nuke (~> 5.0)
+  - ObjectMapper (~> 2.2)
+  - Simplicity (~> 2.0)
+  - SwiftyUserDefaults (~> 3.0)
+  - TagListView (~> 1.1)
+
+EXTERNAL SOURCES:
+  LFSideViewController:
+    :commit: e583a87
+    :git: https://github.com/4ndrey/LFSideViewController.git
+
+CHECKOUT OPTIONS:
+  LFSideViewController:
+    :commit: e583a87
+    :git: https://github.com/4ndrey/LFSideViewController.git
+
+SPEC CHECKSUMS:
+  Crashlytics: a989ef242b66605577a425733797f810bd2725eb
+  Fabric: bb495bb9a7a7677c6d03a1f8b83d95bc49b47e41
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  LFSideViewController: 368fdf5fde016e1c21562da95a55a3d3f494be1d
+  Localize: fe7b9cbf3a9e2146d055d4782d8f810ecdf2de08
+  Nuke: 5f420c4637415f979c83afb35e73176dd03232d9
+  ObjectMapper: 63cfe41bc6f8e7c8f44344c49901b8ae7de14c52
+  Simplicity: 58ce0c6569baf45e48ccd25432274ae899097517
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+  TagListView: 669f7d4455003c877655875d34829731c4191528
+
+PODFILE CHECKSUM: a22402a7acfb8db3c12479c52a4f1a42eabb8e1d
+
+COCOAPODS: 1.2.1

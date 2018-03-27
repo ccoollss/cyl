@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "icPhotoMore.pdf"
+    }
+  ],
+  "info" : {
+    "author" : "zeplin",
+    "version" : "1"
+  }
+}

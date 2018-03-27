@@ -1,0 +1,4 @@
+git_url "git@gitlab.com:vice3-private/ios-certificates.git"
+git_branch "vice3"
+
+type "appstore" # The default type, can be: appstore, adhoc or development

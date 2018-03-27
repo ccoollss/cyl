@@ -1,0 +1,3 @@
+app_identifier "agency.vice3.gisges.stage" # The bundle identifier of your app
+apple_id "pavel.skorynin+jenkins@gmail.com" # Your Apple email address
+team_id "93RY36MZZR"  # Developer Portal Team ID

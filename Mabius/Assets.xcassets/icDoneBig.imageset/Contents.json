@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "icDoneBig.pdf"
+    }
+  ],
+  "info" : {
+    "author" : "zeplin",
+    "version" : "1"
+  }
+}

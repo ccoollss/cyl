@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Напитки и соки</key>
+	<array>
+		<string>Прохладительные напитки</string>
+		<string>Соки и нектары</string>
+		<string>Ферментированные напитки</string>
+	</array>
+	<key>Детское питание</key>
+	<array>
+		<string>Молочные десерты</string>
+		<string>Фруктово-ягодные десерты</string>
+		<string>Мучные кондитерские изделия</string>
+		<string>Сахаристые кондитерские изделия</string>
+		<string>Шоколад</string>
+		<string>Джем и варенье</string>
+		<string>Натуральные кондитерские изделия</string>
+	</array>
+	<key>Масла и жиры</key>
+	<array/>
+	<key>Молочные продукты</key>
+	<array>
+		<string>Кисломолочные продукты</string>
+		<string>Йогурты</string>
+		<string>Мороженое</string>
+		<string>Сыры</string>
+		<string>Творог и творожные продукты</string>
+	</array>
+	<key>Мясные продукты</key>
+	<array>
+		<string>Колбасы и мясные деликатесы</string>
+		<string>Мясные консервы</string>
+	</array>
+	<key>Овощи и фрукты</key>
+	<array>
+		<string>Овощные, плодовые, ягодные консервы</string>
+		<string>Орехи</string>
+		<string>Сушеные овощи, фрукты, ягоды, грибы</string>
+		<string>Растительное молоко</string>
+	</array>
+	<key>Продукты быстрого приготовления</key>
+	<array>
+		<string>Зерновые каши, хлопья, смеси</string>
+		<string>Гранола</string>
+		<string>Снеки</string>
+		<string>Концентрированные супы и бульоны</string>
+		<string>Сухие супы и бульоны</string>
+	</array>
+	<key>Рыба и морепродукты</key>
+	<array>
+		<string>Снеки</string>
+		<string>Консервы</string>
+		<string>Водоросли</string>
+	</array>
+	<key>Соусы и приправы</key>
+	<array/>
+	<key>Хлебобулочные изделия и макароны</key>
+	<array/>
+</dict>
+</plist>

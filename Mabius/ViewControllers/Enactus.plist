@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Дизайн и Искусство</key>
+    <array/>
+    <key>События и развлечения</key>
+    <array/>
+    <key>Бизнес и Карьера</key>
+    <array/>
+    <key>Культуры и Языки</key>
+    <array/>
+    <key>Здоровье и красота</key>
+    <array/>
+    <key>Хобби</key>
+    <array/>
+    <key>IT</key>
+    <array>
+        <string>Apps</string>
+        <string>Web</string>
+        <string>Fintech</string>
+    </array>
+    <key>Семья, дети</key>
+    <array/>
+    <key>Животные</key>
+    <array/>
+    <key>Наука</key>
+    <array/>
+    <key>Общество</key>
+    <array/>
+    <key>Спорт</key>
+    <array/>
+    <key>Образование и развитие</key>
+    <array/>
+    <key>Еда и напитки</key>
+    <array>
+        <string>Школьное питание</string>
+        <string>Здоровое питание</string>
+        <string>Детское питание</string>
+        <string>Сохранение национальных кулинарных традиций</string>
+        <string>Безотходное пищевое производство</string>
+        <string>Экологически чистая упаковка</string>
+        <string>Развитие фермерства</string>
+    </array>
+    <key>Городская среда</key>
+    <array/>
+    <key>Услуги для населения</key>
+    <array/>
+    <key>Магазины и Покупки</key>
+    <array/>
+    <key>Экология</key>
+    <array>
+        <string>recycling</string>
+        <string>экологически чистая упаковка</string>
+    </array>
+    <key>Другое</key>
+    <array/>
+</dict>
+</plist>
